@@ -1,4 +1,84 @@
-# Getting Started with Create React App
+
+<!-- PROJECT LOGO -->
+<div align="center">
+  <h3 align="center">Post App using Redux Toolkit</h3>
+
+  <p align="center">
+    This is a post app using redux toolkit
+    <br />
+    <a href="https://github.com/Jauharmuhammed/redux-toolkit-post"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://github.com/Jauharmuhammed/redux-toolkit-post/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Jauharmuhammed/redux-toolkit-post/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href='#download-and-setup-instructions'>Download And Setup Instructions</a></li>
+    <li>
+      <a href="#getting-started-with-create-react-app">Getting Started with Create React App</a>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+## About The Project
+<br>
+<p align='center'>
+<img src="https://github.com/Jauharmuhammed/redux-toolkit-post/blob/main/public/posts.png" width='70%' >
+</p>
+<br>
+
+
+### Built With
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br>
+
+## Download And Setup Instructions
+
+Before downloading the project, check to make sure you meet the [project's requirements.](https://github.com/divanov11/Mumble/blob/master/REQUIREMENTS.md)
+
+Clone the project. This will download the GitHub respository files onto your local machine.
+
+```Shell
+git clone https://github.com/Jauharmuhammed/redux-toolkit-post
+```
+
+### Frontend Instructions (Create React App) :
+
+---> Install the project dependencies
+
+```Shell
+npm install
+```
+
+---> Start the development server on localhost:3000
+
+```Shell
+npm run start
+```
+
+---> Open your browser and navigate to either `http://localhost:3000 or http://127.0.0.1:3000`
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,6 +119,34 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+<br>
+
+## Contact
+
+<div align='left'>
+
+<a href="https://linkedin.com/in/jauharmuhammed" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+	
+<a href="https://twitter.com/jauharmuhammed_" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+	
+<a href="mailto:jauharmuhammedk@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+	
+		
+<a href="https://codepen.io/jauharmuhammed" target="_blank">
+<img src="https://img.shields.io/badge/codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+</div>
+
+
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -66,7 +174,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# redux-toolkit-post git init git add README.md git add . git commit -m first commit git branch -M main git remote add origin https://github.com/Jauharmuhammed/redux-toolkit-post.git git push -u origin main
-# redux-toolkit-post
